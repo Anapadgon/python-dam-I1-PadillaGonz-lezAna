@@ -1,0 +1,2 @@
+Prompt utilizado en perfil.py:
+Necesito que me hagas un código en python que contenga todo esto: pedir nombre + año de nacimiento, calcular edad, clasificar por tramo (-18, 18 -65, +65), manejo de error si no mete número y comentarios. Quiero que sea facilito y me expliques para que sirve cada comando ya que estoy empezando a aprender python. Utilizo visual code
