@@ -1,0 +1,43 @@
+Prompt utilizado en lista_numeros.py;
+Necesito un código en python que haga lo siguiente: pedir lista de números separados por comas, 
+convertirlos a float con control de errores y mostrar la suma, la media, el máximo y los duplicados. 
+Ten en cuenta que soy principiante y tiene que ser un código que se entienda, explícame un poco.
+Explicación:
+Se pide al usuario una lista de números separados por comas y se convierten a float con control de errores.
+Se calculan suma, media, máximo, duplicados, números únicos y lista ordenada.
+Los resultados se muestran por pantalla y se guardan en un archivo CSV.
+El programa permite repetir los cálculos hasta que el usuario decida salir.
+
+
+Prompt utilizado en temperatuas.py:
+Quiero que me hagas un código en python que haga lo siguiente: un conversor de temperaturas 
+de grados a kelvin o a farenheit. Quiero que sea un código muy básico y no complejo para que lo entienda, 
+ya que soy principiante
+Explicación:
+Se muestra un menú con cuatro tipos de conversión de temperatura.
+Se pide una opción y un número, y según la elección se aplica la fórmula correspondiente.
+Se usa try/except para evitar errores si el usuario introduce texto.
+La adaptación permite convertir también de Fahrenheit o Kelvin a Celsius.
+
+
+Prompt utilizado en cadenas.py:
+Necesito que me hagas un código en python que haga lo siguiente: un programa que reciba una cadena y 
+cuente las vocales que tiene, las consonantes, las mayúsculas y el número de caracteres. Quiero que sea un código sencillo 
+ya que estoy empezando a aprender python y llevo muy poco tiempo con ello. Tengo que entenderlo utilizando las cosas más 
+básicas aunque no esté optimizado
+Explicación:
+Se pide una cadena de texto al usuario y se recorre letra por letra.
+Se cuentan las vocales, consonantes, mayúsculas y el total de caracteres.
+Se usa if y len() para los cálculos básicos.
+Como adaptación, también se cuentan los espacios en la frase.
+
+
+Prompt utilizado en primo.py:
+Quiero realices un programa en pyhton que haga lo siguiente: el programa recibe un número y nos diga si es primo o no. 
+Necesito que sea con un código muy básico y lo más fácil de entender posible aunque no sea muy óptimo ya que soy principiante
+Explicación:
+Se pide al usuario un número entero y se comprueba si es primo contando sus divisores.
+Si solo tiene dos divisores (1 y él mismo) se considera primo.
+Se usa un bucle for y el operador % para comprobar divisibilidad.
+Como adaptación, se muestran todos los divisores del número.
+Además, se incluye un menú que permite repetir cálculos hasta que el usuario decida salir.

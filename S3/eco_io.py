@@ -18,7 +18,7 @@ suma = sum(numeros)            # Suma de todos los números
 media = suma / len(numeros)    # Media = suma entre cantidad
 mayor = max(numeros)           # Número mayor de la lista
 
-# Adaptación libre: mostramos también el menor y los números en orden ascendente
+# Adaptación: mostramos también el menor y los números en orden ascendente
 menor = min(numeros)
 ordenados = sorted(numeros)
 
