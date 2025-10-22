@@ -1,0 +1,21 @@
+Prompt utilizado en analisis_notas.py;
+Necesito un código en python que haga lo siguiente: que pida al usuario una lista de calificaciones separadas por comas (ejemplo: 6.5, 8, 5, 4, 9, 10, 7, 3). 
+Además, tiene que mostrar un resumen estadístico similar al de un boletín de aula: 
+- Número total de notas. 
+- Media, nota mínima y máxima. 
+- Porcentaje de aprobados (≥5) y de sobresalientes (≥9). 
+- Nota más repetida (moda) — si hay empate, muestra todas. 
+Mensaje final: 
+- “Nivel excelente” si la media ≥ 8 
+- “Nivel medio” si la media está entre 5 y 7.9 
+- “Necesita refuerzo” si la media < 5 
+También, deben de hacer estos requisitos técnicos: 
+- Validar que todos los valores sean numéricos (try/except). 
+- Redondear la media a 2 decimales. 
+- Mostrar resultados formateados con f-strings. 
+- Comentarios explicativos. 
+Ten en cuenta que soy principiante y tiene que ser un código fácil y fácil de entender, explícamelo.
+Explicación:
+Se pide al usuario una lista de calificaciones separadas por comas y se convierten a números añadiendo validación de errores.
+Calcular el total, media, mínima, máxima, porcentajes de aprobados y sobresalientes, y la(s) nota(s) más repetida(s).
+Por último, se muestra un resumen y un mensaje final según la media: excelente, medio o necesita refuerzo.
